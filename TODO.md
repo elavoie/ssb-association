@@ -7,9 +7,9 @@
 
 ## Crypto-donations
 - [ ] Handle donations through Open Collective and Bitcoins
-      - [ ] Clarify how to mint a new assotoken
-      - [ ] Clarify how to transfer funds between active members
-      - [ ] Clarify how to destroy the tokens by using them in an SSB association
+- [ ] Clarify how to mint a new assotoken
+- [ ] Clarify how to transfer funds between active members
+- [ ] Clarify how to destroy the tokens by using them in an SSB association
 - [ ] Clarify that the tokens may ultimately only be used for the purpose of paying membership fees 
 - [ ] Clarify how membership fees augment
 - [ ] Clarify the relationship between IASU and ACCESS: handle the donations through ACCESS

@@ -1,8 +1,12 @@
-# International Association of SSB Users (IASU)
+# Name: International Association of SSB Users (IASU)
 
-I propose to create an association of users whose purpose will be to democratically fund (some of) the next ssbc-grants. 
+Purpose: Democratically fund (some of) the next ssbc-grants. 
 
-Here is a rough sketch of the governance rules. I think I am close to complete, your feedback is welcomed to make sure I have covered every base.
+## 0. Definitions
+
+Channel: #iasu
+
+Throughout the rest of this document the left part of the definitions above are used as place-holders for the values on the right part.
 
 ## 1. Membership
 

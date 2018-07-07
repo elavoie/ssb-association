@@ -17,10 +17,12 @@
 
 ### Bitcoin handling
 - [ ] Rework Bitcoin process to use the following:
-      1. Send treasurer an invoice address request
-      2. Treasurer sends a unique address for that member
-      3. Member pays fees to the address
-      4. Treasurer sends the funds to the association’s address/account
+
+1. Send treasurer an invoice address request
+2. Treasurer sends a unique address for that member
+3. Member pays fees to the address
+4. Treasurer sends the funds to the association’s address/account
+      
 - [ ] Clarify that the values of Bitcoin funds may be reach the threshold because Bitcoin's value has appreciated
 
 ## Messaging Protocol

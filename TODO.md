@@ -13,6 +13,7 @@
 * Clarify that the tokens may ultimately only be used for the purpose of paying membership fees 
 * Clarify how membership fees augment
 * Clarify the relationship between IASU and ACCESS: handle the donations through ACCESS
+* Handle reimbursement
 
 ### Bitcoin handling
 * Rework Bitcoin process to use the following:

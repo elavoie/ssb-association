@@ -1,0 +1,2 @@
+Transaction Description,User Name,User Profile,Transaction Date,Collective Currency,Host Currency,Transaction Amount,Host Fee (EUR),Open Collective Fee (EUR),Payment Processor Fee (EUR),Net Amount (EUR),Subscription Interval,Order Date
+"Monthly donation to ACCESS (backer)","Erick Lavoie","http://opencollective.com/erick-lavoie",2018-07-27 13:44:41,"EUR","EUR",5.00,0.00,-0.25,-0.40,4.35,"month","2018-07-27T11:44:41.000Z"

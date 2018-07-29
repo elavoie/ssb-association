@@ -15,7 +15,7 @@ The current membership protocol is tailored to the OpenCollective use case.
 
 Sybil attack may undermine democratic decision making by enabling physical persons with sufficient money multiple votes. This can be mitigated with the following rules:
 
-1. A member ID must have been present in at least 20 messages from other active members to be considered for membership.
+1. A member ID must have been present in at least 20 messages from at least 4 distinct active members to be considered for membership.
 
 ## Additional Explanations
 

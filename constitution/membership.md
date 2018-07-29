@@ -3,7 +3,7 @@
 The current membership protocol is tailored to the OpenCollective use case.
 
 1. Anyone can become a member, the only requirement is to contribute a Membership Fee, after which a member is considered *active*.
-2. Contributions that count towards the Membership Fee can either be made from monthly recurring donations or from Assocoins (credits).
+2. Contributions that count towards the Membership Fee can either be made from monthly recurring donations (3.) or from Assocoins (credits) (4.).
 3. For contributions through recurring monthly donations:
    1. After the first donation on OpenCollection, the member should notify the Treasurer with a message of their new contribution and link their SSB-ID with their OpenCollective account. Every subsequent donation will receive an automatic [````membership-confirmation````](../messages.md).
 4. For contributions through Assocoins, a member can choose the amount contributed which will determine the number of months of membership. (Ex: a contribution equivalent to 2 months of Membership Fees will make the member *active* for 2 months)

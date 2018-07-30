@@ -9,8 +9,7 @@ Confirmation:
     version: VERSION-NB,
     association: SSB-MSG-ID, 
     member: SSB-ID,
-    amount: Number,
-    currency: String,
+    fee: { amount: Number, currency: String },
     confirmation-date: Date,
     expiration-date: Date 
 }

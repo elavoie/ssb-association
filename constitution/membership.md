@@ -3,9 +3,9 @@
 The current membership protocol is tailored to the OpenCollective use case.
 
 1. Anyone can become a member, the only requirement is to contribute a Membership Fee, after which a member is considered *active*.
-2. Contributions that count towards the Membership Fee can either be made from monthly recurring donations. Other possiblities will be added later.
+2. Contributions that count towards the Membership Fee can be made from monthly recurring donations. Other possiblities will be added later.
 3. For contributions through recurring monthly donations:
-   1. After the first donation on OpenCollection, the member should notify the Treasurer with a message of their new contribution and link their SSB-ID with their OpenCollective account. Every subsequent donation will receive an automatic [````membership-confirmation````](../messages.md).
+   1. After the first donation on OpenCollection, the member will be notified to suggest linking their SSB-ID with their OpenCollective account. Every subsequent donation will receive an automatic [````membership-confirmation````](../messages.md).
 4. The member becomes *inactive* after the ````expiration-date```` of the [````membership-confirmation````](../messages.md).
 5. The Membership Fee is non-refundable.
 
